@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhaskar Bhar
 ====================================================================================================================================
 
-Cybersecurity and Data Science Enthusiast
+Cybersecurity and Open Source
 -----------------------------------------
 
 Welcome to my Github!!! I am currently doing Integrated BTECH MTECH CSE (CYBERSECURITY) in National Forensic Sciences University. My true passion lies in cybersecurity. My current focus is on expanding my knowledge in the field of Data Science. I'm on an exciting learning journey, exploring the world of data, statistics, and machine learning to extract valuable insights.
 
 * ✉️  You can contact me at [bhaskarbhar007@yahoo.com](mailto:bhaskarbhar007@yahoo.com)
-* 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on Cybersecurity and data science related projexts
+* 🧠  My [open source](https://github.com/bhaskarbhar/Opensource_contributions) contributions
+* 🤝  I'm open to collaborating on Cybersecurity and Open Source projects
 * ⚡  I'm Batman btw
 
 ### Skills
