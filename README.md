@@ -9,7 +9,6 @@ Welcome to my Github!!! I am currently doing Integrated BTECH MTECH CSE (CYBERSE
 * ✉️  You can contact me at [bhaskarbhar007@yahoo.com](mailto:bhaskarbhar007@yahoo.com) or (visit my portfolio)[https://bhaskarbhar.netlify.app/] 
 * 🧠  My [open source](https://github.com/bhaskarbhar/Opensource_contributions) contributions
 * 🤝  I'm open to collaborating on Cybersecurity and Open Source projects
-* ⚡  I'm Batman btw
 
 ### Skills
 
